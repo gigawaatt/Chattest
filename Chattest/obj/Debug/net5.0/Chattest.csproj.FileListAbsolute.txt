@@ -1,0 +1,17 @@
+C:\Users\GigaWatt-Laptop\source\repos\Chattest\Chattest\bin\Debug\net5.0\Chattest.exe
+C:\Users\GigaWatt-Laptop\source\repos\Chattest\Chattest\bin\Debug\net5.0\Chattest.deps.json
+C:\Users\GigaWatt-Laptop\source\repos\Chattest\Chattest\bin\Debug\net5.0\Chattest.runtimeconfig.json
+C:\Users\GigaWatt-Laptop\source\repos\Chattest\Chattest\bin\Debug\net5.0\Chattest.runtimeconfig.dev.json
+C:\Users\GigaWatt-Laptop\source\repos\Chattest\Chattest\bin\Debug\net5.0\Chattest.dll
+C:\Users\GigaWatt-Laptop\source\repos\Chattest\Chattest\bin\Debug\net5.0\ref\Chattest.dll
+C:\Users\GigaWatt-Laptop\source\repos\Chattest\Chattest\bin\Debug\net5.0\Chattest.pdb
+C:\Users\GigaWatt-Laptop\source\repos\Chattest\Chattest\obj\Debug\net5.0\Chattest.csprojAssemblyReference.cache
+C:\Users\GigaWatt-Laptop\source\repos\Chattest\Chattest\obj\Debug\net5.0\Chattest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GigaWatt-Laptop\source\repos\Chattest\Chattest\obj\Debug\net5.0\Chattest.AssemblyInfoInputs.cache
+C:\Users\GigaWatt-Laptop\source\repos\Chattest\Chattest\obj\Debug\net5.0\Chattest.AssemblyInfo.cs
+C:\Users\GigaWatt-Laptop\source\repos\Chattest\Chattest\obj\Debug\net5.0\Chattest.csproj.CoreCompileInputs.cache
+C:\Users\GigaWatt-Laptop\source\repos\Chattest\Chattest\obj\Debug\net5.0\Chattest.dll
+C:\Users\GigaWatt-Laptop\source\repos\Chattest\Chattest\obj\Debug\net5.0\ref\Chattest.dll
+C:\Users\GigaWatt-Laptop\source\repos\Chattest\Chattest\obj\Debug\net5.0\Chattest.pdb
+C:\Users\GigaWatt-Laptop\source\repos\Chattest\Chattest\obj\Debug\net5.0\Chattest.genruntimeconfig.cache
+C:\Users\GigaWatt-Laptop\source\repos\Chattest\Chattest\bin\Debug\net5.0\data.txt
